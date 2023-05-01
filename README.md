@@ -9,17 +9,15 @@ Here are some screenshots of the app in action:
 # Getting Started
 To get started with AnCrypto, follow the instructions below:
 
-Clone the repository by running the following command:
-bash
-Copy code
+1. Clone the repository by running the following command:
 git clone https://github.com/hardaman/ancrytpo.git
-Navigate into the ancrypto directory:
-bash
-Copy code
+
+2. Navigate into the ancrypto directory:
 cd ancrypto
-Run the following command to start the app:
-sql
-Copy code
+
+3. Run the following command to start the app:
 npx expo start
-Download Expo Go from your device's app store and scan the QR code to run the app.
+
+4. Download Expo Go from your device's app store and scan the QR code to run the app.
+
 And that's it! You should now be able to use AnCrypto to transact and earn NFTs. If you encounter any issues or have any questions, please feel free to contact us.
