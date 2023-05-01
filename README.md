@@ -4,7 +4,7 @@ AnCrypto is a mobile app designed to allow users to get NFTs by conducting trans
 # Screenshots
 Here are some screenshots of the app in action:
 
-(Insert screenshots here)
+![Screenshot 1](/assets/screenshot-1.png)
 
 # Getting Started
 To get started with AnCrypto, follow the instructions below:
